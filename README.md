@@ -1,5 +1,7 @@
 # Gargantua
 
+![Gargantua — real-time procedural black hole in three.js](media/preview.gif)
+
 A real-time, ray-marched Schwarzschild black hole rendered in three.js. **Zero textures, zero external assets** — gravitational lensing, the accretion disk, dust volumetrics, the starfield and the nebula are all generated per-pixel from physics and hash noise.
 
 The whole effect is a single self-contained drop-in module — `src/BlackHole.js`.
